@@ -14,7 +14,7 @@
     "@react-native-community/netinfo": "^5.9.4",
     "formik": "^2.1.4",
     "react": "16.13.1",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-localization": "^2.1.6",
     "react-native-localize": "^1.4.0",
     "react-native-responsive-screen": "^1.4.1",
